@@ -1,11 +1,14 @@
-# DevOps Challenge Demo Code:
+# GCP FINAL TASK
 
-This application will be used as a demo for DevOps Challenges.
+It is a simple reload counter made using tornado the python framework and redis hosted on GKE
 
-You should fork/clone this repository to use as a basis for the challenge.
+## Steps How to run
 
-## Demo application
-
+```bash
+terraform init
+terraform plan
+terraform apply
+```
 ### Requirements
 
 #### System
