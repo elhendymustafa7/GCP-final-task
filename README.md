@@ -4,6 +4,8 @@ It is a simple reload counter made using tornado the python framework and redis 
 
 ## Steps How to run
 
+Cloned the app code from https://github.com/atefhares/DevOps-Challenge-Demo-Code
+
 ```bash
 terraform init
 terraform plan
